@@ -33,11 +33,7 @@ app.listen(8000,()=>{
 })
 
 
-// comparison
+ comparison
 
-/*
-
-The broiler plates for express is  more easy to read and understand
-In the express we dont need to specify the content types and   
-
-*/
+/*The broiler plates for express is  more easy to read and understand
+In the express we dont need to specify the content types  */
